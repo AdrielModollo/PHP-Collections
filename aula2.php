@@ -23,3 +23,7 @@ $tocador->avancarMusica();
 $tocador->tocarUltimaMusicaTocada();
 
 $tocador->tocarMusica();
+
+//testes de pilha
+//O último elemento INSERIDO na pilha é o primeiro a sair.
+//e o primeiro elemento INSERIDO na pilha é o ultimo a sair.
